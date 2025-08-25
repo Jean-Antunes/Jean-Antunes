@@ -10,12 +10,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-<div>
-<a href="https://www.linkedin.com/in/jean-antuness" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target-"_blank"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jean-antuness)
 
 <h3 align="left">My Stack ~</h3>
-<div style="display: inline_block"><br>
+
+<div align="left">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
