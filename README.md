@@ -1,7 +1,7 @@
 
 #
 
-<p align="center">Estudante de Ciencias da computação na Universidade Presbiteriana Mackenzie.
+<p align="center">Estudante de Ciencia da computação na Universidade Presbiteriana Mackenzie.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
